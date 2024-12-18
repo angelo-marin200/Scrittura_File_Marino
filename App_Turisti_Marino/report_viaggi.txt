@@ -1,0 +1,5 @@
+Data: 2024-12-18
+Ordine viaggi:
+- francesi
+- tedeschi
+- spagnoli
